@@ -27,3 +27,6 @@ $('.plus-btn').on('click', function(e) {
   }
   $input.val(value);
 });
+
+// why is there no delete button onClick function???
+// due to lack of shoppingBagArray, items are in html not json.
